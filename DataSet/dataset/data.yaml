@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['Direction-Sign', 'Order-Sign', 'Street-Direction-Sign', 'Warning-Sign']
+
+roboflow:
+  workspace: ai-7tpgx
+  project: hong-kong-traffic-sign-plzf8
+  version: 8
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ai-7tpgx/hong-kong-traffic-sign-plzf8/dataset/8
