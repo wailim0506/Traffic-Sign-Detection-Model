@@ -26,7 +26,7 @@ As the model need a server to run, it is suggested to use the live server in vis
    ![a](https://github.com/user-attachments/assets/c5fc856c-fd18-4be7-ae51-d1b7f5ac31c4)
 
 2. Open index.html
-3. CLick the widget below
+3. Click the widget as below
    <br>
    ![a](https://github.com/user-attachments/assets/c2f83b08-9188-43b7-975f-54954e673a46)
 4. Upload the image to be detected and view the result
@@ -43,10 +43,10 @@ For easy training, I classify the traffic sign into four category
    ![Order Sign](https://github.com/user-attachments/assets/e767c938-cd1b-42fc-b6d8-92b465b1539b)
 3. Direction Sign
    <br>
-   ![Direction Sign](https://github.com/user-attachments/assets/4acc0568-9436-4dad-9066-6db9ef573b23)
+   ![Street Direction Sign](https://github.com/user-attachments/assets/e0e4cd93-67aa-4732-b424-41269f8bff80)
 4. Street Direction Sign
    <br>
-   ![Street Direction Sign](https://github.com/user-attachments/assets/e0e4cd93-67aa-4732-b424-41269f8bff80)
+   ![Direction Sign](https://github.com/user-attachments/assets/4acc0568-9436-4dad-9066-6db9ef573b23)
 
 ## Sample Output
 
