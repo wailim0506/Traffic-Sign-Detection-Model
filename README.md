@@ -50,7 +50,7 @@ For easy training, I classify the traffic sign into four category
 
 ## Sample Output
 
-![d](https://github.com/user-attachments/assets/cd6dc971-5951-4976-80ac-c6abfefab4d1)<br>
+![d](https://github.com/user-attachments/assets/2bfe5802-b5f7-4c99-b735-ddeb6cf5a2db)<br>
 ![d](https://github.com/user-attachments/assets/5b464db7-951d-4f6e-9f41-d3697f794d89)<br>
 ![d](https://github.com/user-attachments/assets/ad4084d4-19c5-4582-842c-0fd000a80626)<br>
 ![d](https://github.com/user-attachments/assets/94acdc92-45cb-49a0-9096-bd5400f1c3c9)
